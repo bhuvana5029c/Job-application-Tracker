@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1001,
+        "company": "Google",
+        "role": "Software Engineer",
+        "location": "Remote",
+        "applied_date": "2026-07-01",
+        "interview_date": null,
+        "status": "OA Scheduled",
+        "notes": "Completed hackerrank challenge, waiting for feedback."
+    },
+    {
+        "id": 1002,
+        "company": "Meta",
+        "role": "Production Engineer",
+        "location": "Seattle, WA",
+        "applied_date": "2026-06-15",
+        "interview_date": null,
+        "status": "Rejected",
+        "notes": "Passed technical phone screen, failed systemic design."
+    },
+    {
+        "id": 1003,
+        "company": "Microsoft",
+        "role": "Tech Consultant",
+        "location": "Redmond, WA",
+        "applied_date": "2026-07-10",
+        "interview_date": "2026-07-23",
+        "status": "Interview Scheduled",
+        "notes": "Virtual onsite scheduled. 3 rounds of technical/coding."
+    },
+    {
+        "id": 1004,
+        "company": "Apple",
+        "role": "AI Engineer",
+        "location": "Cupertino, CA",
+        "applied_date": "2026-07-18",
+        "interview_date": null,
+        "status": "Applied",
+        "notes": "Applied via employee referral."
+    },
+    {
+        "id": 1005,
+        "company": "Stripe",
+        "role": "Backend Engineer",
+        "location": "Remote",
+        "applied_date": "2026-05-10",
+        "interview_date": "2026-05-25",
+        "status": "Selected",
+        "notes": "Received offer! Signed and starting in September."
+    },
+    {
+        "id": 1006,
+        "company": "Microsoft",
+        "role": "Developer",
+        "location": "hyderabad",
+        "applied_date": "2026-07-20",
+        "interview_date": null,
+        "status": "HR Round",
+        "notes": ""
+    }
+]
