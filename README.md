@@ -51,4 +51,4 @@ python main.py
 
 ## Author
 
-Harshitha
+Harshitha,Bhuvaneswari 
